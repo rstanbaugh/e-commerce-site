@@ -102,7 +102,6 @@ router.post('/', (req, res) => {
 // update product
 router.put('/:id', (req, res) => {
   console.log('=========== UPDATE PRODUCT ===========');
-
   // update product data
   Product.update(req.body, {
     where: {
