@@ -87,7 +87,8 @@ Enter PW when promted
 No testing is currently set up
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+Bootcamp Spot
+Rich Stanbaugh
 
 
   ## Questions
