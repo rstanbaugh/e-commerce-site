@@ -1,5 +1,5 @@
 
-<h1 align="center">Object-Relational Mapping (ORM): E-Commerce Back End 👋</h1>
+<h1 align="center">eCommerce backEnd</h1>
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/rstanbaugh/e-commerce-site" />
@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/mySQL-blue"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
 </p>
+
+![eComm Backend](./public/assets/images/eCommerce-Backend-Screenshot.png)<br/>
+
    
 ## Description
 
@@ -58,14 +61,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 💾   
-  
-`npm init`
 
-`npm install mysql2`
-
-`npm install sequelize`
-
-`npm install dotenv`
+`npm install`
   
 ## Usage
 💻   
@@ -92,5 +89,10 @@ No testing is currently set up
 ## Contributing
 :octocat: [Joseph DeWoody](https://github.com/jpd61)
 
-## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+
+  ## Questions
+  If you  hvae questions, you can:
+  - :eyes: Find me on GitHub: [rstanbaugh@gmail.com](https://github.com/rstanbaugh@gmail.com), or<br />
+  - :email: Email me: rich_bootcamp@icloud.com<br /><br />
+
+  _This README was generated with :heart: by [README-generator](https://github.com/rstanbaugh/README-Generator) :fire: :fire:_
