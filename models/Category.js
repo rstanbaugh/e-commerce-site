@@ -11,7 +11,7 @@ Category.init(
       primaryKey: true,
       autoIncrement: true
     },
-    answer_text: {
+    category_name: {
       type: DataTypes.TEXT,
       allowNull: false,
       validate: {
